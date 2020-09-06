@@ -10,7 +10,7 @@ TERM PROJECT
 data 폴더 내의 모든 파일을 내 드라이브(/drive/My Drive/)에 저장해주세요.
 efficientnet-pytorch-master/ 폴더
 cat_to_name.json
-flower_data.tar.gz
+flower_data.tar.gz ( https://s3.amazonaws.com/content.udacity-data.com/nd089/flower_data.tar.gz 에서 다운로드 받으세요 )
 *.ipynb
 
 2. ipynb file을 열어 주세요. (colab.google.com 이용)
