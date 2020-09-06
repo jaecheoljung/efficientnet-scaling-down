@@ -1,0 +1,37 @@
+*********************************************
+INTRODUCTION TO DEEP LEARNING(2019 FALL)
+*********************************************
+TERM PROJECT
+
+2014-17952 정재철 dreamsboat@snu.ac.kr
+2015-19099 황보준호 joonho0320@snu.ac.kr
+
+*********Google Colab 사용 설명************
+
+1. 구글 드라이브와 연동해서 사용합니다.
+
+data 폴더 내의 모든 파일을 내 드라이브(/drive/My Drive/)에 저장해주세요.
+efficientnet-pytorch-master/ 폴더
+cat_to_name.json
+flower_data.tar.gz
+*.ipynb
+
+2. ipynb file을 열어 주세요. (colab.google.com 이용)
+
+3. 런타임-모두 시작 하시면 됩니다.
+
+- 드라이브 마운트 인증을 하셔야 됩니다.
+- 경로 'drive/My Drive/' 가 혹시 다른 경우
+그것만 수정해주시면 됩니다.
+
+**************참고한 코드**************
+efficientnet-pytorch-master/ 폴더:
+https://github.com/narumiruna/efficientnet-pytorch 
+
+*.ipynb에 포함된 MobileNet 코드:
+https://github.com/d-li14/mobilenetv2.pytorch
+
+그 외 모든 파일:
+https://github.com/Muhammad-MujtabaSaeed/102-Flowers-Classification 
+
+에서 수정, 변경하여 사용하였습니다.
